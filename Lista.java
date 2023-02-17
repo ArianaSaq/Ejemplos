@@ -13,6 +13,7 @@ public class Lista {
 		System.out.println("Introduce los valores numericos de la lista: ");
 		numero = teclado.next();
 
+		
 		//llamada a metodo de leer numero por teclado
 		listaDeEnteros = listaDesdeTeclado(numero);
 
