@@ -1,4 +1,4 @@
-package paqueteClases;
+package Ejemplos;
 
 public class Libro {
 	String titulo;
